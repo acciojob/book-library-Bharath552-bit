@@ -7,10 +7,9 @@ body{
 	background-color:#ffffff;
 }
 .author{
-	background-color:#777777;
+	color:#777777
 }
 .price-block{
-	background-color:#2ecc71;
 	color:rgb(255, 255, 255);
 }
 .book{
